@@ -1,5 +1,19 @@
-## 📄 Resume
-- **Skills**: Git, GitHub, GitHub Copilot, HTML, CSS
-- **Certification**: [GitHub Skills: Introduction to GitHub](https://github.com/Ananya0-alt/skills-introduction-to-github)
-- **Location**: Kerala, India
-- **Email**: ananyaanish839@gmail.com
+## Hi, I'm Ananya 👋 | Fullstack Developer
+
+🚀 **Live Project:** [Shortly - URL Shortener + Analytics](https://shortly-analytics-api.onrender.com) - LIVE 24/7
+
+### 🛠️ Skills
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database & Tools:** Supabase, PostgreSQL, Git, GitHub, GitHub Copilot, Render, Vercel, VS Code
+
+### 🌱 Currently Building
+**Expense Split App** - Splitwise Clone with MERN + Supabase (Auto Settlement Logic)
+
+### 🏆 Achievements
+- Deployed 1 Fullstack App Live
+- GitHub Skills Certified
+
+- **Location:** Kerala, India
+- **Email:** ananyaanish839@gmail.com
+- **Portfolio:** https://github.com/Ananya0-alt
