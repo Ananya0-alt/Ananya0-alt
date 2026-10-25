@@ -30,5 +30,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya0-alt&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ananya0-alt&theme=tokyonight&hide_border=true)
-
+![GitHub St![](https://github-readme-activity-graph.vercel.app/graph?username=Ananya0-alt&theme=react-dark)reak](https://github-readme-streak-stats.herokuapp.com/?user=Ananya0-alt&theme=tokyonight&hide_border=true)
