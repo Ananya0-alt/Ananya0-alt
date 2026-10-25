@@ -9,20 +9,30 @@
 ### 🛠️ Tech Stack & Skills
 
 <p align="center">💻 Programming Languages:</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,java,cpp,mysql,js,ts,react,nodejs&perline=10" />
-  </a>
-</p>
+
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://skillicons.dev/icons?i=py" width="55" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=cs" width="55" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=java" width="55" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=js" width="55" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=cpp" width="55" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql" width="55" />&nbsp;&nbsp;
+  </marquee>
+</div>
 
 <p align="center">🔧 Tools & Technologies:</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,vscode,visualstudio,linux,github,vercel&perline=10" />
-  </a>
-</p>
-### 🌱 Currently Building
-**Expense Split App** - Splitwise Clone with MERN + Supabase (Auto Settlement Logic)
+
+<div align="center">
+  <marquee behavior="scroll" direction="right" scrollamount="6">
+    <img src="https://skillicons.dev/icons?i=docker" width="55" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=git" width="55" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=vscode" width="55" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=visualstudio" width="55" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=linux" width="55" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=github" width="55" />&nbsp;&nbsp;
+  </marquee>
+</div>
 
 ### 🏆 Achievements
 - Deployed 1 Fullstack App Live
