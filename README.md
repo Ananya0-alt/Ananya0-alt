@@ -6,7 +6,21 @@
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js, REST APIs,Ruby on Rails
 - **Database & Tools:** Supabase, PostgreSQL, Git, GitHub, GitHub Copilot, Render, Vercel, VS Code,Ruby Gems
+### 🛠️ Tech Stack & Skills
 
+<p align="center">💻 Programming Languages:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cs,java,cpp,mysql,js,ts,react,nodejs&perline=10" />
+  </a>
+</p>
+
+<p align="center">🔧 Tools & Technologies:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,vscode,visualstudio,linux,github,vercel&perline=10" />
+  </a>
+</p>
 ### 🌱 Currently Building
 **Expense Split App** - Splitwise Clone with MERN + Supabase (Auto Settlement Logic)
 
