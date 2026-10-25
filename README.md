@@ -75,3 +75,10 @@ I am Ananya A S, a passionate Fullstack Developer from Kerala, India, working in
 <p align="center">⚡ New Project: <a href="https://github.com/Ananya0-alt/instant-portfolio-builder">instant-portfolio-builder</a></p>
  ̶ ̶ ̶ ̶ ̶ ̶
 Ok
+---
+
+### 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ananya0-alt/Ananya0-alt/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
