@@ -31,5 +31,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya0-alt&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ananya0-alt&theme=tokyonight&hide_border=true)
-### 📈 30-DAY ACTIVITY
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananya0-alt&bg_color=0D1117&color=C084FC&line=A855F7&point=FFD700&area=true&hide_border=true&custom_title=30-DAY%20ACTIVITY%20%2F%2F%20CONTRIBUTIONS)
+
