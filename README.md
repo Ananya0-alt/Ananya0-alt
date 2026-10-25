@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ananya+A+S+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%92%BB;From+Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+![](https://komarev.com/ghpvc/?username=Ananya0-alt&label=Profile%20views&color=0e75b6&style=flat)
 ![Banner](./IMG-20261025-WA1359.jpg)
 
 ### Hi There, Welcome to my Github profile! 👋
